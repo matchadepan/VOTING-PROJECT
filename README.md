@@ -1,10 +1,8 @@
 # E-Voting Kades Ds. Kemiri 2024
 
-A Interactive Way To Solve Conventional Voting.
+Cara Interaktif Untuk Memecahkan Pemungutan Suara Konvensional.
 
-MATDAAN E-Voting System" is an online voting system. In this system people
-who are citizens and whose age is above 18 years of age, and any gender can give his\her
-vote online without going to any physical pooling station.
+E-Voting Kades Ds. Kemiri 2024" adalah sistem pemungutan suara secara online. Dalam sistem ini orang-orang yang merupakan warga negara dan berusia di atas 18 tahun, dan jenis kelamin apa pun dapat memberikan suaranya secara online tanpa harus pergi ke tempat pemungutan suara secara fisik..
 
 
 # Snapshots of Voting System
